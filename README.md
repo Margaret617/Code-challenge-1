@@ -18,4 +18,19 @@ It assigns student's grade based on the marks they input.The grading system is a
                   B - (60 to 79),
                   C - (49 to 59),
                   D- -(40 to 48),
-                  E - (below 40).
+                  E - (below 40)
+INSTALLATIONS YOU'LL NEED
+
+Github , make sure you have logged in 
+
+Visual studio code 
+
+TO ACCESS MY REPOSITORY
+
+...you first need to open your terminal
+
+...cd the directory you want the folder to be in 
+
+...then type (git clone) and copy the SSH (git@github.com:Margaret617/code-challenge1.git)
+
+...then type (code .) to open the file on visual studio code 
