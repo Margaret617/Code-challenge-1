@@ -29,3 +29,5 @@
    ``git@github.com:Margaret617/code-challenge1.git`
 - Then you will run "code ."to open it on visual studio code 
 
+### HOW TO ACCESS MY REPOSITORY.
+- `https://github.com/Margaret617/code-challenge1.git `
